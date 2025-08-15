@@ -94,9 +94,3 @@ This mathematical foundation enables:
 ## 👨‍🎓 Author
 
 **Niccolás Parra**  
-Student ID: 2025951018  
-MECH 483 - Robotics  
-
----
-
-*🤖 Building the future of robotics, one equation at a time.*
