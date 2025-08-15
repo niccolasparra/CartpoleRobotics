@@ -1,17 +1,5 @@
 # 🤖 Cart-Pole System: Mathematical Modeling & Control
 
-## 💡 Inspiration
-
-> "The progress and development of man are of immeasurable importance for humanity and are essentially dependent on invention."
-> 
-> **— Nikola Tesla**
-
-> "Robotics and other combinations will make the world pretty fantastic compared with today."
-> 
-> **— Bill Gates**
-
----
-
 ## 📋 Project Overview
 
 This project presents a comprehensive mathematical analysis of the **Cart-Pole System** (inverted pendulum on a cart) using **Lagrangian Mechanics**. The cart-pole system is a foundational model in robotics and control systems, serving as an excellent platform for understanding dynamic coupling and control strategies for underactuated systems.
